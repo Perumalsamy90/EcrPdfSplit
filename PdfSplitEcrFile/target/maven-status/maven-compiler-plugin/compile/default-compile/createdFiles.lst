@@ -1,0 +1,6 @@
+com\uds\ecr\model\EcrModel.class
+com\uds\ecr\service\EcrServiceImpl.class
+com\uds\ecr\controller\EcrController.class
+com\uds\ecr\service\EcrService.class
+com\uds\ecr\dao\EcrDaoImpl.class
+com\uds\ecr\dao\EcrDao.class
